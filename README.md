@@ -1,23 +1,20 @@
 <!-- Estrutura  -->
 <!-- currency-converter/
-├── public/
-├── src/
 ├── docs/
 │   ├── installation.md
 │   └── usage.md
+├── public/
+├── src/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
 ├── package.json
 └── yarn.lock -->
 
-# Currency Converter
+## Documentação
 
 Este é um projeto React para um conversor de moedas simples.
 
-## Documentação
-
-Para mais detalhes, consulte a [documentação](docs/README.md).
 
 ## Instalação
 
